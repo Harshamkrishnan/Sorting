@@ -1,0 +1,13 @@
+BEGIN
+  Create an empty list; l
+  Read the number of elements in the list; n
+  Read The n elements into the empty list using a for a loop
+  Call Sort function
+	BEGIN
+	  for i= 0 to n-1 (n-1 not included in ramge function)
+	      for j = 0 to n-i-1
+		compare Elements at (j)th and (j+1)th index
+		if element at j > element at j+1, then swap
+	END
+   Print the sorted list
+END

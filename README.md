@@ -1,2 +1,2 @@
 # Sorting
-Sort the numbers in an array in ascending order.
+Sort the numbers given by the user in an array in ascending order.
